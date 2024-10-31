@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Inter";
+    src: url(../../fonts/Inter/Inter.ttc);
+}
+
+h1, h2, h3, h4, h5, h6, p, span {
+    margin: 0;
+}
+
+.page {
+    font-family: "Inter", "Arial";
+    color: #FFFFFF;
+    background-color: #2A2C2F;
+    margin: 0;
+    padding: 0;
+}
